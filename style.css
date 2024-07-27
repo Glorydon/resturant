@@ -1,0 +1,30 @@
+.cover{
+    background-image: url(../img/okro.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    padding-top:300px;
+    
+    
+}
+.mover{
+    background-image: url(../img/fried.jpg);
+    background-position: center;
+   background-size: cover;
+    width: 80%;
+    height: 300px;
+    border-radius: 21px 21px 0 0;
+}
+
+.wrapper{
+    background-image: url(../img/pix3.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+}
+
+.power{
+    background-image: url(../img/pattern.jpg);
+    background-size: cover;
+}
